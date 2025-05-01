@@ -95,22 +95,12 @@ input{
 .product-details{
     font-size: 1.5rem;
     padding: 5px 50px;
-    /* text-align: right; */
     display: flex;
     justify-content: space-between;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: rgb(242, 240, 214);
     border-bottom: 2px solid rgb(95, 95, 95);
 }
-
-/* .product-count{
-    font-size: 1.5rem;
-    padding: 5px 50px;
-    text-align: right;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(242, 240, 214);
-    border-bottom: 2px solid rgb(95, 95, 95);
-} */
 
 .product-details span{
     color: green;
@@ -127,8 +117,6 @@ input{
 }
 
 #search-btn{
-    /* border-left: 2px solid black; */
-    /* height: 10px; */
     width: 28px;
     height: 28px;
     border-radius: 5px;
